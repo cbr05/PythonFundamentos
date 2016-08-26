@@ -1,0 +1,1 @@
+{"similar": ["c", "Modula-3", "lisp"], "nome": "Guido van Rossum", "linguagem": "Python", "users": 1000000}
