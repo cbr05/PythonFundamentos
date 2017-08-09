@@ -1,6 +1,6 @@
 # Python Fundamentos
 
-****** Todos os scripts foram atualizados para a versão 3.6.1 da Linguagem Python em 05/06/2017 ******
+******* Todos os scripts foram atualizados para a versão 3.6.1 da Linguagem Python em 05/06/2017 *******
 
 Data Science Academy - Python Fundamentos para Análise de Dados
 
