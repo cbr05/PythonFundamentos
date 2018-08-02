@@ -1,4 +1,5 @@
-# Import
+# Imports
+
 import json
 import numpy as np
 from flask import Flask, jsonify, render_template, request
